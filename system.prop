@@ -1,0 +1,28 @@
+#enable offload audio video playback by default
+audio.offload.video=true
+#
+##enable music through deep buffer
+audio.deep_buffer.media=true
+#
+##set AudioFlinger client heap size
+ro.af.client_heap_size_kbyte=7168
+
+#Netflix custom property
+ro.netflix.bsp_rev=Q8250-19134-1
+
+media.stagefright.thumbnail.prefer_hw_codecs=true
+
+#system prop for RmNet Data
+persist.rmnet.data.enable=true
+persist.data.wda.enable=true
+persist.data.df.dl_mode=5
+persist.data.df.ul_mode=5
+persist.data.df.agg.dl_pkt=10
+persist.data.df.agg.dl_size=4096
+persist.data.df.mux_count=8
+persist.data.df.iwlan_mux=9
+
+persist.sys.force_sw_gles=1
+persist.vendor.radio.atfwd.start=true
+
+persist.vendor.sensors.enable.mag_filter=true
