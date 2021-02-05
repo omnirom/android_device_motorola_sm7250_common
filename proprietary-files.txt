@@ -161,3 +161,4 @@ product/lib/vendor.qti.qspmhal@1.0.so
 -product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk
 -product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk
 -product/priv-app/WavesService/WavesService.apk
+-product/app/MotoWaves/MotoWaves.apk
