@@ -24,7 +24,8 @@ $(call inherit-product, device/motorola/dynamic_common/dynamic_common.mk)
 
 # Prebuilt
 PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,device/motorola/sm7250_common/prebuilt/system,system)
+    $(call find-copy-subdir-files,*,device/motorola/sm7250_common/prebuilt/system,system) \
+    $(call find-copy-subdir-files,*,device/motorola/sm7250_common/prebuilt/product,product)
 
 # Boot control
 PRODUCT_PACKAGES += \

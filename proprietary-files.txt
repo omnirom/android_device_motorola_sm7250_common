@@ -27,7 +27,6 @@ lib/libvpsclient.so
 lib/libvpsextension.so
 -product/app/uimlpaservice/uimlpaservice.apk
 -product/app/VirtualUiccPayment_st/VirtualUiccPayment_st.apk
-product/bin/dpmd
 product/etc/dpm/dpm.conf
 product/etc/init/dpmd.rc
 product/etc/ixitdata.xml
