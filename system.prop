@@ -26,3 +26,4 @@ persist.sys.force_sw_gles=1
 persist.vendor.radio.atfwd.start=true
 
 persist.vendor.sensors.enable.mag_filter=true
+ro.telephony.default_network=22,22
