@@ -23,3 +23,8 @@ service vendor.mbm_spy /system/bin/true
     disabled
     oneshot
     override
+
+service vendor.qmipriod /system/bin/true
+    disabled
+    oneshot
+    override
